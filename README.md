@@ -1,8 +1,8 @@
 # INTRODUCTION
 
-A nifty read for book lovers on the web.
+A nifty read for book lovers on the web. Best experienced on the iPad / Chrome.
 
-Brought to you by web people and [Bubblin Superbooks](https://bubbl.in/about) - an online café of books. Best experienced on the iPad.
+Brought to you by web people and [Bubblin Superbooks](https://bubbl.in/about) - an online café of books.
 
 ## MOBILE FIRST
 
